@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: large;
+}
+
+main p {
+    display: none;
+}
+
+main.rojo  {
+    background-color: red;
+    float: left;
+    
+
+}
+
+main.azul  {
+    background-color: blue;
+    float: inline-start;
+    
+
+}
+
+main.amarillo  {
+    background-color: yellow;
+    float: inline-start;
+    
+
+}
+
+main {
+    padding: 15%;
+    
+}
+
+footer {
+    display: inline-block;
+    background-color: green;
+    padding-right: 85%;
+}
